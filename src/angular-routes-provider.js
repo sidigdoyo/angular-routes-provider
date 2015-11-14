@@ -1,4 +1,11 @@
-
+/**
+ * angular-routes-provider
+ * @version v0.0.1
+ * @link https://github.com/sidigdoyo/angular-routes-provider
+ * @license MIT
+ * @author Sidigdoyo Pribadi <sidigdoyo@gmail.com>
+ */
+ 
 (function(window, angular, undefined) {
 	"use strict";
 	var options = {
